@@ -48,7 +48,7 @@ git clone https://github.com/your-username/gba-alien-game.git
 cd gba-alien-game
 pip install pygame
 python alien_game.py
-
+---
 ## Repository Structure
 gba-alien-game
 ├─ assets/              # Images and sound files
