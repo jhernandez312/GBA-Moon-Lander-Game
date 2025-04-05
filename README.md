@@ -15,12 +15,18 @@ A GBA-style pixel game where timing and control are everything.
 
 ## 🎮 Game Controls
 
-| Key          | Action          |
-|--------------|------------------|
-| **ENTER**     | Start game       |
-| **BACKSPACE** | Restart game     |
-| **← / →**     | Move left/right  |
-| **S**         | Boost upward     |
+========= GBA ALIEN GAME ==========
+Description:
+    Alien needs help landing his ship. Goal is to make it to the landing pad without crashing the $10000000000 ship.
+
+Controls:
+
+ENTER        : starts game
+BACKSPACE    : restarts game
+LEFT ARROW   : move left
+RIGHT ARROW  : move right
+S KEY        : move up
+
 
 ---
 
