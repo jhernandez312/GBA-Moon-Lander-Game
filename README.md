@@ -8,7 +8,8 @@
 Help Alien land his $10,000,000,000 spaceship without crashing!  
 A GBA-style pixel game where timing and control are everything.  
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  
+[![.](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 </div>
 
 ---
@@ -24,11 +25,11 @@ A GBA-style pixel game where timing and control are everything.
 
 ---
 
-## 📦 About the Game
+## About the Game
 
 This retro-style GBA game is a lighthearted challenge to safely guide Alien to the landing pad. One mistake could cost a trillion-dollar spaceship!
 
-- Written in **Python**
+- Written in **C**
 - Inspired by classic GBA aesthetics
 - Simple controls, pixel-perfect precision
 
@@ -38,16 +39,14 @@ This retro-style GBA game is a lighthearted challenge to safely guide Alien to t
 
 ### Requirements
 
-- Python 3.10+
-- Pygame library
+- C
 
 ### Installation
 
 ```bash
 git clone https://github.com/your-username/gba-alien-game.git
 cd gba-alien-game
-pip install pygame
-python alien_game.py
+
 
 ---
 
