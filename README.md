@@ -13,7 +13,7 @@ A GBA-style pixel game where timing and control are everything.
 </div>
 <div align="center">
   <video width="560" height="315" controls>
-    <source src="demo.mp4" type="video/mp4">
+    <source src="/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
