@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./Figures/banner.png" alt="Alien Game Banner">
-</div>
-
 # GBA Alien Game 👾🚀  
 
 Help Alien land his $10,000,000,000 spaceship without crashing!  
