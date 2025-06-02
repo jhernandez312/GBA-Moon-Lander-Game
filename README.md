@@ -3,8 +3,6 @@
 Help Alien land his $10,000,000,000 spaceship without crashing!  
 A GBA-style pixel game where timing and control are everything.  
 
-[![.](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
 <img src="demo.gif" alt="Demo" width="500">
 
 <br>
