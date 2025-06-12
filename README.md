@@ -26,7 +26,6 @@ This retro-style GBA game is a lighthearted challenge to safely guide Alien to t
 
 - Written in **C**
 - Inspired by classic GBA aesthetics
-- Simple controls, pixel-perfect precision
 
 ---
 
