@@ -34,20 +34,3 @@ This retro-style GBA game is a lighthearted challenge to safely guide Alien to t
 ### Requirements
 
 - C
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/gba-alien-game.git
-cd gba-alien-game
-
-
----
-
-## Repository Structure
-gba-alien-game
-├─ assets/              # Images and sound files
-├─ alien_game.py        # Main game logic
-├─ README.md            # You're here!
-└─ Figures/
-   └─ banner.png        # Game banner image
